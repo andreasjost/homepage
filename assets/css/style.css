@@ -1,0 +1,55 @@
+body {
+    background-color: #ddd;
+}
+
+h1 {
+    padding-top: 15px;
+    color: #333;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 15px;
+    color: #333;
+}
+
+h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.title-row {
+    margin-bottom: 15px;
+    padding: 5px 0;
+    font-weight: 600;
+    background-color: #fff;
+}
+
+.icon-image {
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+}
+
+.logo-wtext {
+    width: 100%;
+}
+
+.plaindays-icon {
+    background-image: url("/assets/images/plaindaysicon.png");
+}
+
+.spacetrash-icon {
+    background-image: url("/assets/images/spacetrashlogo.png");
+}
+
+.eggbox-icon {
+    background-image: url("/assets/images/eggboxlogo.png");
+}
+
+.plaindays-screenshots {
+    height: 400px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
